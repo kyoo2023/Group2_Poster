@@ -1,0 +1,25 @@
+1. Definition
+Machine learning allows computers to learn on their own by analyzing data without our step-by-step guidance, and it enables computers to recognize patterns, make decisions and predictions as if they were gaining experience.
+Machine learning algorithms enable computers to improve themselves over time by analysing data without human guidance.
+
+2. What you will learn ?
+In this machine learning lecture,you can learn  its main categories—supervised, unsupervised, semi-supervised, and reinforcement learning.
+Supervised Learning
+Linear Regression: Predicts continuousvalues and so on.
+Unsupervised Learning
+K-Means Clustering: Divides data into K clusters and so on.
+Semi-Supervised and Reinforcement Learning
+1.Semi-Supervised Learning: Combines labeled and unlabeled data.
+2.Reinforcement Learning: Learns via rewards and punishments, used in gaming and robotics. 
+
+3. Application
+1.Autonomous Driving 
+Autonomous driving technology employs machine learning algorithms to analyze environmental data collected by sensors, enabling vehicles to achieve autonomous navigation, decision-making, and safe driving.
+2.Intelligent Recommendation
+An intelligent recommendation system analyses user behaviours and preferences by using machine learning algorithms to suggest or recommend additional products to consumers.
+3.Chatbot
+Chatbots, such as ChatGPT and Siri, are based on natural language processing models that can understand and generate human language to interact and engage in dialogue with users across a diverse range of topics and domains.
+The applications of machine learning technology are extensive, covering various aspects from daily life to industrial fields.
+
+4. Future outlook
+As one of the core drivers of contemporary and future technological progress, machine learning is crucial to the innovation and development of various fields. As machine learning algorithms demonstrate their unique advantages in a wide range of application scenarios, there is a huge demand for people with relevant professional skills, which in turn leads to the growth of opportunities in the job market. In view of this, mastering machine learning techniques is not only a necessity, but also offers learners the opportunity to work across multiple industries.
