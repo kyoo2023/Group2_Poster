@@ -1,5 +1,5 @@
 1. Definition
-Machine learning allows computers to learn on their own by analyzing data without our step-by-step guidance, and it enables computers to recognize patterns, make decisions and predictions as if they were gaining experience.
+Machine learning allows computers to learn on their own by analyzing data without our step-by-step guidance, and it enables computers to recognize patterns, make decisions, and predict outcomes as though they were gaining experience.
 Machine learning algorithms enable computers to improve themselves over time by analysing data without human guidance.
 
 2. What you will learn ?
